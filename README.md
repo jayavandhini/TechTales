@@ -1,34 +1,36 @@
-# Organizo
-# ✅ To-Do Application (MERN Stack)
+# 📝 TechTales - A Blogging Platform
 
-A full-stack To-Do Application built with the **MERN** stack (MongoDB, Express.js, React, Node.js) and styled using **TailwindCSS**. It allows users to manage their daily tasks with ease through a clean, modern, and responsive user interface.
+**TechTales** is a full-stack blogging platform built using the **MERN** stack (MongoDB, Express.js, React, Node.js). It allows users to seamlessly navigate, read, and explore blog content through a modern, responsive, and dynamic user interface.
 
 ---
 
 ## 🚀 Features
 
-- ➕ Add new tasks
-- ✏️ Edit and update existing tasks
-- 🗑️ Delete completed or unnecessary tasks
-- 📋 View a complete list of all tasks
-- 📱 Fully responsive design with TailwindCSS
+- 📰 Dynamic blog post and category browsing
+- ⚙️ Real-time content updates with backend API
+- 📱 Responsive and accessible UI design
+- ⚡ Efficient API requests with Axios
+- 💾 MongoDB integration for scalable data storage
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-- React.js  
-- TailwindCSS  
+- React  
 - JavaScript  
+- CSS  
+- Bootstrap  
+- Axios
 
 **Backend**  
 - Node.js  
-- Express.js  
+- Express.js
 
 **Database**  
 - MongoDB
 
 ---
+
 
 
