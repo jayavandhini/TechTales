@@ -31,5 +31,4 @@ A full-stack To-Do Application built with the **MERN** stack (MongoDB, Express.j
 
 ---
 
-## 📁 Folder Structure
 
