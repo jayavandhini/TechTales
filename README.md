@@ -1,20 +1,20 @@
-# 📝 TechTales - A Blogging Platform
+# TechTales - A Blogging Platform
 
 **TechTales** is a full-stack blogging platform built using the **MERN** stack (MongoDB, Express.js, React, Node.js). It allows users to seamlessly navigate, read, and explore blog content through a modern, responsive, and dynamic user interface.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📰 Dynamic blog post and category browsing
-- ⚙️ Real-time content updates with backend API
-- 📱 Responsive and accessible UI design
-- ⚡ Efficient API requests with Axios
-- 💾 MongoDB integration for scalable data storage
+- Dynamic blog post and category browsing
+- Real-time content updates with backend API
+- Responsive and accessible UI design
+- Efficient API requests with Axios
+- MongoDB integration for scalable data storage
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**  
 - React  
